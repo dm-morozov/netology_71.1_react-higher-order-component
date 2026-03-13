@@ -14,6 +14,11 @@
 [![React + TypeScript Build](https://github.com/dm-morozov/netology_71.1_react-higher-order-component/actions/workflows/web.yaml/badge.svg)](https://github.com/dm-morozov/netology_71.1_react-higher-order-component/actions/workflows/web.yaml)
 ![Netology](https://img.shields.io/badge/React-TypeScript-blue)
 
+## Демо
+
+- Frontend: https://dm-morozov.github.io/netology_71.1_react-higher-order-component
+- Репозиторий: https://github.com/dm-morozov/netology_71.1_react-higher-order-component
+
 ## Что сделано
 
 ### 1. HOC `withTheme`
